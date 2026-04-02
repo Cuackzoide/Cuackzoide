@@ -1,23 +1,16 @@
 # 👋 Hola, mi nombre es Oliver Barra
 
-<!-- markdownlint-disable MD033 -->
-<div style="display: grid; grid-template-columns: 200px 1fr; gap: 20px; align-items: start;">
- <img src="https://cuackzoide.github.io/react-cv/assets/avatar_ia-BTczK95O.jpeg" alt="Avatar" width="200">
-  <div>
-    <h3>Cuackzoide</h3>
-    <ul>
-    <li>Fullstack JavaScript Developer | Desarrollador Fullstack Javascript</li>
-    <li>Focused on automation | Enfocado en automatización</li>
-    <li>Data Analyst | Analista de datos</li>
-    </ul>
-  </div>
-</div>
+| **Cuackzoide**                          |                                |
+| :-------------------------------------- | :----------------------------- | :--------------------------------- |
+| ![Avatar](https://tinyurl.com/4mj8tm2z) | Fullstack JavaScript Developer | Desarrollador Fullstack Javascript |
+|                                         | Focused on automation          | Enfocado en automatización         |
+|                                         | Data Analyst                   | Analista de datos                  |
 
 ---
 
-## Sobre mí
+## 😸 Sobre mí
 
-- Soy un profesional del sector IT con base en **Concepción, Chile**.
+- Soy un **profesional del sector IT** con base en **Concepción, Chile**.
 - Mi transición desde la _Medicina_ hacia el _Software_ me dota de una capacidad analítica única para resolver problemas complejos.
 - Me he capacitado como **desarrollador web** aprovechando cada recurso disponible:
   1. Beca talento digital SENCE - MindHub
@@ -27,38 +20,40 @@
 - Actualmente me desempeño como _Data Accuracy Analyst_ en TELUS Digital AI, donde la presición de los datos y las pautas estrictas comandan mis tareas.
 - Mi enfoque es encontrar un puesto como desarrollador web junior, en una empresa enfocada 100% en la construcción de soluciones digitales, automatización de procesos e innovación constante.
 
-### Mi enfoque
+### 🎯 Mi enfoque
 
 Unir la lógica de programación con la precisión del análisis de datos para desarrollar soluciones que impacten positivamente en el negocio y la experiencia de los usuarios. El desarrollo de Apps Web facilita la implementación, distribución y acceso de soluciones escalables. El ecosistema Javascript cimenta una escalada exponencial, con potencial de desarrollo de apps nativas para usuarios moviles y desktop.
 
-### Mi Stack tecnológico
+### 📚 Mi Stack tecnológico
 
-- Ecosistema Principal: JavaScript ES6+.
-- Desarrollo FrontEnd: HTML5, Handlebars, CSS3, Bootstrap5, Bootstrap Icons, TailwindCSS, Javascript y React.
-- Desarrollo BackEnd: NodeJs, Express.
-- Seguridad: Server DotEnv, cliente JWT.
-- Bases de Datos: PostgreSQL, Sequelize ORM.
-- Gestor de Paquetes: npm, pnpm (optimización de rendimiento y espacio).
-- Análisis: Python (Pandas), Excel (Macros VBA).
+- **Ecosistema Principal:** JavaScript ES6+.
+- **Desarrollo FrontEnd:** HTML5, Handlebars, CSS3, Bootstrap5, Bootstrap Icons, TailwindCSS, Javascript y React.
+- **Desarrollo BackEnd:** NodeJs, Express.
+- **Bases de Datos:** PostgreSQL, Sequelize ORM.
+- **Seguridad:** Server: DotEnv, Cliente: JWT.
+- **Gestor de Paquetes:** pnpm (rendimiento y espacio optimizado).
+- **Análisis:** Python (Pandas), Excel (Macros VBA).
 
 ---
 
-## 📚 Proyectos
+## 💼 Proyectos Destacados
 
-### Desarrollo Web & Software
+### 💻 Desarrollo Web & Software
 
 | Proyecto              | Descripción                                                        | Stack                     | Estado     |
 | :-------------------- | :----------------------------------------------------------------- | :------------------------ | :--------- |
 | **Digital Portfolio** | Mi carta de presentación con renderizado de componentes modulares. | React (vite), Bootstrap   | Producción |
 | **KanbanPro**         | Aplicación para gestionar y organizar tareas con Login de Usuarios | Express, Hbs, JWT         | MVP        |
 | **Gourmet Go**        | Aplicación para buscar recetas a partir de ingredientes.           | HTML, Bootstrap5, JS(Api) | MPV        |
-| **Mastermind**        | Juego de lógica interactivo, para decifrar patrones y pistas.      | HTML, CSS, JS (lógica)    | Producción |
+| **Mastermind**        | Juego de lógica interactivo, para decifrar patrones y pistas.      | HTML, CSS, JS(lógica)     | Producción |
 | **Inventory Chatbot** | Bot de WhatsApp para gestión de inventarios y ventas agrícolas.    | JS, WhatsApp-web.js       | MVP        |
 
-### Análisis de Datos
+### 📊 Análisis de Datos
 
-- 📊 **Data Analysis con Python:** Limpieza, manipulación y visualización de datos utilizando Dataframes **Pandas** y graficos **Seaborn**.
-- 📈 **Business Intelligence:** Automatización de reportes con **Macros (VBA)** mediante cruce de datos en **Excel**.
+| Proyecto                      | Descripción                                           | Stack                    | Estado     |
+| :---------------------------- | :---------------------------------------------------- | :----------------------- | :--------- |
+| **Data Analysis con Python:** | Limpieza, manipulación y visualización de datos       | Python (Pandas, Seaborn) | Completado |
+| **Business Intelligence:**    | Automatización de reportes y KPIs con cruce de datos. | MS Excel, Macros (VBA)   | Completado |
 
 ---
 
@@ -71,18 +66,20 @@ Unir la lógica de programación con la precisión del análisis de datos para d
 
 ---
 
-### 🤝 Colaboración y Entorno
+### 🤝 Entorno Y Colaboración
 
-- Siempre estoy buscando aprender nuevas tecnologías y mantenerme actualizado.
-- Poseo nivel de Inglés C2, que me facilita la comunicación e investigación.
-- Me apasiona el trabajo en equipos multidiciplinarios y los entornos de trabajo remotos.
-- La automatización es clave para optimizar flujos de trabajo y mejorar la precisión del software.
+- Siempre estoy buscando **aprender** nuevas tecnologías y mantenerme **actualizado**.
+- Poseo nivel de **Inglés C2**, que me facilita la **comunicación** e **investigación**.
+- Me apasiona el **trabajo en equipos** multidiciplinarios y los entornos de **trabajo remoto**.
+- La **automatización** es clave para optimizar flujos de trabajo y mejorar la precisión del software.
 - La presión no es impedimento es motivación, bienvenido el scrum y las metodologías agile.
-- Las opiniones son variables, pero los datos no mienten.
+- Las opiniones son variables, pero los datos no defraudan.
 
 #### Si te interesa mi perfil o me quieres para tu equipo, no dudes en contactarme
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/oliver-barra-cuackzoide/)
-- 💻 [GitHub](https://github.com/Cuackzoide)
+- 📧 [Email](mailto:barraoliver94@gmail.com)
+- 🌐 [Portafolios](https://cuackzoide.github.io/)
+- 💻 [GitHub](https://github.com/Cuackzoide/)
 
 Saludos, **Oliver Barra** - ©2026
