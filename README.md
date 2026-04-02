@@ -1,7 +1,5 @@
 # 👋 Hola, mi nombre es Oliver Barra (Cuackzoide)
 
-## Descripción
-
 **Fullstack JavaScript Developer | Desarrollador Fullstack Javascript**
 **focused on automation | Enfocado en automatización**
 **Data Analyst | Analista de datos**
