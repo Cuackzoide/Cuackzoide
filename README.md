@@ -1,11 +1,9 @@
 # 👋 Hola, mi nombre es Oliver Barra
 
 <!-- markdownlint-disable MD033 -->
-<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
-  <div style="flex: 0 0 200px;">
-    <img src="https://cuackzoide.github.io/react-cv/assets/avatar_ia-BTczK95O.jpeg" alt="Avatar" width="200">
-  </div>
-  <div style="flex: 1;">
+<div style="display: grid; grid-template-columns: 200px 1fr; gap: 20px; align-items: start;">
+ <img src="https://cuackzoide.github.io/react-cv/assets/avatar_ia-BTczK95O.jpeg" alt="Avatar" width="200">
+  <div>
     <h3>Cuackzoide</h3>
     <ul>
     <li>Fullstack JavaScript Developer | Desarrollador Fullstack Javascript</li>
