@@ -1,10 +1,9 @@
 # 👋 Hola, mi nombre es Oliver Barra
 
-| **Cuackzoide**                          |                                |
-| :-------------------------------------- | :----------------------------- | :--------------------------------- |
-| ![Avatar](https://tinyurl.com/4mj8tm2z) | Fullstack JavaScript Developer | Desarrollador Fullstack Javascript |
-|                                         | Focused on automation          | Enfocado en automatización         |
-|                                         | Data Analyst                   | Analista de datos                  |
+| <img src="https://tinyurl.com/4mj8tm2z" width="200"> | Fullstack JavaScript Developer | Desarrollador Fullstack Javascript |
+| :--------------------------------------------------: | :----------------------------- | :--------------------------------- |
+|                                                      | Focused on automation          | Enfocado en automatización         |
+|                                                      | Data Analyst                   | Analista de datos                  |
 
 ---
 
