@@ -1,8 +1,19 @@
-# 👋 Hola, mi nombre es Oliver Barra (Cuackzoide)
+# 👋 Hola, mi nombre es Oliver Barra
 
-**Fullstack JavaScript Developer | Desarrollador Fullstack Javascript**
-**focused on automation | Enfocado en automatización**
-**Data Analyst | Analista de datos**
+<!-- markdownlint-disable MD033 -->
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 0 0 200px;">
+    <img src="https://cuackzoide.github.io/react-cv/assets/avatar_ia-BTczK95O.jpeg" alt="Avatar" width="200">
+  </div>
+  <div style="flex: 1;">
+    <h3>Cuackzoide</h3>
+    <ul>
+    <li>Fullstack JavaScript Developer | Desarrollador Fullstack Javascript</li>
+    <li>Focused on automation | Enfocado en automatización</li>
+    <li>Data Analyst | Analista de datos</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
