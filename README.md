@@ -1,6 +1,6 @@
 # 👋 Hola, mi nombre es Oliver Barra
 
-| <img src="https://tinyurl.com/4mj8tm2z" width="200"> | Fullstack JavaScript Developer, Data Analyst, Focused on Automatization | Desarrollador Fullstack Javascript, Analista de Datos, Enfocado en Automatización |
+| <img src="https://tinyurl.com/4mj8tm2z" width="300"> | Fullstack JavaScript Developer, Data Analyst, Focused on Automatization | Desarrollador Fullstack Javascript, Analista de Datos, Enfocado en Automatización |
 | :--------------------------------------------------: | :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------- |
 
 ---
