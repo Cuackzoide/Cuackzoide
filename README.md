@@ -39,13 +39,12 @@ Unir la lógica de programación con la precisión del análisis de datos para d
 
 ### 💻 Desarrollo Web & Software
 
-| Proyecto              | Descripción                                                        | Stack                     | Estado     |
-| :-------------------- | :----------------------------------------------------------------- | :------------------------ | :--------- |
-| **Digital Portfolio** | Mi carta de presentación con renderizado de componentes modulares. | React (vite), Bootstrap   | Producción |
-| **KanbanPro**         | Aplicación para gestionar y organizar tareas con Login de Usuarios | Express, Hbs, JWT         | MVP        |
-| **Gourmet Go**        | Aplicación para buscar recetas a partir de ingredientes.           | HTML, Bootstrap5, JS(Api) | MPV        |
-| **Mastermind**        | Juego de lógica interactivo, para decifrar patrones y pistas.      | HTML, CSS, JS(lógica)     | Producción |
-| **Inventory Chatbot** | Bot de WhatsApp para gestión de inventarios y ventas agrícolas.    | JS, WhatsApp-web.js       | MVP        |
+| Proyecto                                                                    | Descripción                                                        | Stack                     | Estado     |
+| :-------------------------------------------------------------------------- | :----------------------------------------------------------------- | :------------------------ | :--------- |
+| [**Digital Portfolio**](https://github.com/Cuackzoide/cuackzoide.github.io) | Mi carta de presentación con renderizado de componentes modulares. | React (vite), Bootstrap   | Producción |
+| [**KanbanPro**](https://github.com/Cuackzoide/EF_M8-Kanban_Pro_Api)         | Aplicación para gestionar y organizar tareas con Login de Usuarios | Express, Hbs, JWT         | MVP        |
+| [**Gourmet Go**](https://cuackzoide.github.io/EF_M4-API_gourmet_go/)        | Aplicación para buscar recetas a partir de ingredientes.           | HTML, Bootstrap5, JS(Api) | MPV        |
+| [**Mastermind**](https://cuackzoide.github.io/Mastermind/)                  | Juego de lógica interactivo, para decifrar patrones y pistas.      | HTML, CSS, JS(lógica)     | Producción |
 
 ### 📊 Análisis de Datos
 
@@ -53,6 +52,7 @@ Unir la lógica de programación con la precisión del análisis de datos para d
 | :---------------------------- | :---------------------------------------------------- | :----------------------- | :--------- |
 | **Data Analysis con Python:** | Limpieza, manipulación y visualización de datos       | Python (Pandas, Seaborn) | Completado |
 | **Business Intelligence:**    | Automatización de reportes y KPIs con cruce de datos. | MS Excel, Macros (VBA)   | Completado |
+| **Inventory Chatbot**         | Bot de WhatsApp para gestión de inventarios           | Javascript, wsp-web.j    | MVP        |
 
 ---
 
